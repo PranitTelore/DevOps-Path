@@ -1,1 +1,1 @@
-Git hub webhook in Jenkins
+Git hub webhook in Jenkins 2.0
